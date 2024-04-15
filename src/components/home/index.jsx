@@ -48,7 +48,7 @@ const index = () => {
               <div className="">
                 <h2 className="fw-700">Popular Job Categories</h2>
                 <div className="text mt-9">
-                  2020 jobs live - 293 added today.
+                  2024 jobs live - 293 added today.
                 </div>
               </div>
             </div>

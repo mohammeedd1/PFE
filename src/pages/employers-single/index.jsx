@@ -155,7 +155,7 @@ const EmployersSingle = () => {
                   <div className="title-box">
                     <h3>3 Others jobs available</h3>
                     <div className="text">
-                      2020 jobs live - 293 added today.
+                      2024 jobs live - 293 added today.
                     </div>
                   </div>
                   {/* End .title-box */}
