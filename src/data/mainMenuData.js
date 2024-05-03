@@ -87,6 +87,30 @@ export const candidateItems = [
   },
 ];
 
+export const adminItems = [
+  {
+    id: 1,
+    title: "Admin",
+    items: [
+      {
+        name: "Admin dashboard ",
+        routePath: "/admin-dashboard",
+      },
+      
+    ],
+  },
+  {
+    id: 2,
+    title: "Candidates Single",
+    items: [
+      {
+        name: "Candidates Single",
+        routePath: "/candidates-single",
+      }
+    ],
+  },
+];
+
 export const blogItems = [
   {
     name: "Blog List ",
